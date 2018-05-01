@@ -4,5 +4,9 @@
 项目目录是根据UMI项目的目录设置的。
 希望对大家有所帮助。
 
+## change log
+### 2018/04/28 18:43 [bin\umi](packages/umi/bin/umi.md)
 
-2018/04/28 18:43 [Bin](packages/umi/bin/umi.md)
+### 2018/05/01 22:19 [src\scripts\build](packages\umi\src\scripts\build.md)
+### 2018/05/01 22:19 [src\build](packages\umi\src\build.md)
+### 2018/05/01 22:19 [src\buildDevOpts](packages\umi\src\buildDevOpts.md)
