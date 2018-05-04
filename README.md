@@ -10,3 +10,7 @@
 ### 2018/05/01 22:19 [src\scripts\build](packages\umi\src\scripts\build.md)
 ### 2018/05/01 22:19 [src\build](packages\umi\src\build.md)
 ### 2018/05/01 22:19 [src\buildDevOpts](packages\umi\src\buildDevOpts.md)
+
+### 2018/05/04 18：04 [src\scripts\generate](packages\umi\src\scripts\generate.md)
+### 2018/05/04 18：04 [src\generate](packages\umi\src\generate.md)
+### 2018/05/04 18：04 [src\generate\page](packages\umi\src\generate\page.md)
