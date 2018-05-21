@@ -17,3 +17,7 @@
 
 ### 2018/05/07 18：23 [umi\src\scripts\test](packages\umi\src\scripts\test.md)
 ### 2018/05/07 18：23 [umi\src\test](packages\umi\src\test.md)
+
+### 2018/05/21 17：19 [umi\src\scripts\help](packages\umi\src\scripts\help.md)
+### 2018/05/21 17：19 [umi\src\help](packages\umi\src\help.md)
+
