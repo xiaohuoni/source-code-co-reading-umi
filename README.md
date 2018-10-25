@@ -11,13 +11,14 @@
 ### 2018/05/01 22:19 [umi\src\build](packages\umi\src\build.md)
 ### 2018/05/01 22:19 [umi\src\buildDevOpts](packages\umi\src\buildDevOpts.md)
 
-### 2018/05/04 18：04 [umi\src\scripts\generate](packages\umi\src\scripts\generate.md)
-### 2018/05/04 18：04 [umi\src\generate](packages\umi\src\generate.md)
-### 2018/05/04 18：04 [umi\src\generate\page](packages\umi\src\generate\page.md)
+### 2018/05/04 18:04 [umi\src\scripts\generate](packages\umi\src\scripts\generate.md)
+### 2018/05/04 18:04 [umi\src\generate](packages\umi\src\generate.md)
+### 2018/05/04 18:04 [umi\src\generate\page](packages\umi\src\generate\page.md)
 
-### 2018/05/07 18：23 [umi\src\scripts\test](packages\umi\src\scripts\test.md)
+### 2018/05/07 18:23 [umi\src\scripts\test](packages\umi\src\scripts\test.md)
 ### 2018/05/07 18：23 [umi\src\test](packages\umi\src\test.md)
 
-### 2018/05/21 17：19 [umi\src\scripts\help](packages\umi\src\scripts\help.md)
+### 2018/05/21 17:19 [umi\src\scripts\help](packages\umi\src\scripts\help.md)
 ### 2018/05/21 17：19 [umi\src\help](packages\umi\src\help.md)
 
+### 2018/10/25 16:33 update docs ==> umi@2
